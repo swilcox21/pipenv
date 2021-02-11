@@ -55,7 +55,7 @@ Or, if you\'re using FreeBSD:
 
 When none of the above is an option, it is recommended to use [Pipx](https://pypi.org/p/pipx):
 
-    $ pipx install pipenv
+    $ pip install pipenv
 
 Otherwise, refer to the [documentation](https://pipenv.pypa.io/en/latest/#install-pipenv-today) for instructions.
 
